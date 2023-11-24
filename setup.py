@@ -2,7 +2,7 @@ from setuptools import setup
 
 __project__ = 'mcpi_listener'
 __desc__ = 'Python library for the Minecraft Pi edition and RaspberryJuice API'
-__version__ = '1.0.0'
+__version__ = '1.0.1'
 __author__ = "Barbashin Andrey"
 __author_email__ = 'barbashin.andrey@vk.com'
 __url__ = 'https://github.com/barbashin-andrey/mcpi-listener'

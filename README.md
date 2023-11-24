@@ -1,7 +1,7 @@
 # Package for listening to the minecraft events (uses MCPI)
 ## Installing
 ```
-pip install mcpi_listener
+pip install mcpi-listener
 ```
 ## Usage examples
 ### Chat posts
